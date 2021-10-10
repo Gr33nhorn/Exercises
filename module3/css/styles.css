@@ -1,0 +1,97 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Helvetica', sans-serif;
+  height: 1200px;
+}
+
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+
+}
+
+#logo-img {
+  background: url('../resizedCube.png') no-repeat;
+  width: 100px;
+  height: 80px;
+  
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { 
+  font-family: , serif;
+  color:   #6859aa;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 2px 2px 2px #222;
+  margin-top: 0;
+  margin-bottom: 0px;
+  line-height: .75;
+  padding-bottom: 60px;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand p {
+  color: #000;
+  text-transform: uppercase;
+  font-size: .7em;
+  margin-top: 15px;
+}
+
+#nav-list a:hover {
+	background-color: #E7E7E7;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #61122f;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#title {
+  color: #f6b319;
+  
+}
+
+#meni {
+  color: #61122f;
+  background-color: #d982a2;
+  margin: 15px 0px 15px 0px;
+  border: 2px solid #f6b319;
+
+}
+
+section {
+  padding: 10px 10px 10px 10px;
+  
+}
+
+.row {
+  margin: 5px;
+}
+
+
